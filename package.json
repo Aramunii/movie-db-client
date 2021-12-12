@@ -19,8 +19,5 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0"
-  },
-  "publishConfig": {
-    "@Aramunii:registry": "https://npm.pkg.github.com"
   }
 }
